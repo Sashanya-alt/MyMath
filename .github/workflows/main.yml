@@ -3,12 +3,12 @@ name: MyMath.NET Project
 on:          #Определяет, когда должен запускаться workflow.
   push:
     branches:
-      - master  # Выполняется при пуше в ветку main
+      - main  # Выполняется при пуше в ветку main
       - development
       - release
   pull_request:
     branches:
-      - master  # Выполняется при создании pull request для ветки main
+      - main  # Выполняется при создании pull request для ветки main
 
 jobs:          # Задаёт набор задач (job), которые выполняются независимо или последовательно.
   build:        # Название задачи
