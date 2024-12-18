@@ -1,4 +1,4 @@
-name: Build ASP.NET Project
+name: MyMath.NET Project
 
 on:          #Определяет, когда должен запускаться workflow.
   push:
