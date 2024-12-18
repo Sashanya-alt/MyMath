@@ -1,0 +1,12 @@
+D:\Browser Download\MyMath\src\Matrix\bin\Debug\net8.0\Matrix.deps.json
+D:\Browser Download\MyMath\src\Matrix\bin\Debug\net8.0\Matrix.dll
+D:\Browser Download\MyMath\src\Matrix\bin\Debug\net8.0\Matrix.pdb
+D:\Browser Download\MyMath\src\Matrix\obj\Debug\net8.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Browser Download\MyMath\src\Matrix\obj\Debug\net8.0\Matrix.AssemblyInfoInputs.cache
+D:\Browser Download\MyMath\src\Matrix\obj\Debug\net8.0\Matrix.AssemblyInfo.cs
+D:\Browser Download\MyMath\src\Matrix\obj\Debug\net8.0\Matrix.csproj.CoreCompileInputs.cache
+D:\Browser Download\MyMath\src\Matrix\obj\Debug\net8.0\Matrix.sourcelink.json
+D:\Browser Download\MyMath\src\Matrix\obj\Debug\net8.0\Matrix.dll
+D:\Browser Download\MyMath\src\Matrix\obj\Debug\net8.0\refint\Matrix.dll
+D:\Browser Download\MyMath\src\Matrix\obj\Debug\net8.0\Matrix.pdb
+D:\Browser Download\MyMath\src\Matrix\obj\Debug\net8.0\ref\Matrix.dll
